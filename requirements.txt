@@ -1,5 +1,5 @@
 gradio==5.31.0
-numpy==2.0.2
-pillow==11.2.1
-torch @ https://download.pytorch.org/whl/cu124/torch-2.6.0%2Bcu124-cp311-cp311-linux_x86_64.whl
 transformers==4.52.4
+torch==2.2.2+cu118
+pillow==11.2.1
+numpy==2.0.2
